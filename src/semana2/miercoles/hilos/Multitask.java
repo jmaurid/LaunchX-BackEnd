@@ -1,4 +1,4 @@
-package semana2.lunes.miercoles.hilos;
+package semana2.miercoles.hilos;
 
 public class Multitask extends Thread{
 
